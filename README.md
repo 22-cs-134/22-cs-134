@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding Web Projects
 - 🌱 I’m currently learning Back End Development
 - 💞️ I’m looking to collaborate on Full Stack Web Projects.
-- 📫 Contact On: afaqbytes01@gmail.com
+- 📫 Contact On: afaqahmad7292@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I've got all day for Solving.
 
